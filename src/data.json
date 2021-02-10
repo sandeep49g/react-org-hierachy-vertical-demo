@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Arjun Reddy",
+    "designation": "Director Software Development 1",
+    "hasReportees": true,
+    "reportees": [
+      {
+        "name": "Bhuvan Kumar",
+        "designation": "Software Enginner 1",
+        "hasReportees": false
+      },
+      {
+        "name": "Chetan Gupta",
+        "designation": "Software Enginner 3",
+        "hasReportees": false
+      },
+      {
+        "name": "Dhruv Dhani",
+        "designation": "Manager Software Development 1",
+        "hasReportees": true,
+        "reportees": [
+          {
+            "name": "Ezhil Selvakumaran",
+            "designation": "Software Enginner 1",
+            "hasReportees": false
+          },
+          {
+            "name": "Faizal Khan",
+            "designation": "Software Enginner 2",
+            "hasReportees": false
+          },
+          {
+            "name": "Gagan Singh",
+            "designation": "Software Enginner 1",
+            "hasReportees": false
+          }
+        ]
+      },
+      {
+        "name": "Himanshu Chouhan",
+        "designation": "Software Enginner 3",
+        "hasReportees": false
+      },
+      {
+        "name": "Isha Agarwal",
+        "designation": "Intern",
+        "hasReportees": false
+      },
+      {
+        "name": "Jahnavi Annapureddy",
+        "designation": "Project Manager 2",
+        "hasReportees": false
+      },
+      {
+        "name": "Kavitha Sivakumaran",
+        "designation": "Manager QA Engineering 1",
+        "hasReportees": true,
+        "reportees": [
+          {
+            "name": "Lavanya Tripathi",
+            "designation": "QA Engineer 1",
+            "hasReportees": false
+          },
+          {
+            "name": "Manikandan Ramaswamy",
+            "designation": "QA Engineer 3",
+            "hasReportees": false
+          },
+          {
+            "name": "Nisha Kulkarni",
+            "designation": "Intern",
+            "hasReportees": false
+          },
+          {
+            "name": "Obul Reddy",
+            "designation": "Tools Engineer 2",
+            "hasReportees": false
+          }
+        ]
+      }
+    ]
+  }
+]
